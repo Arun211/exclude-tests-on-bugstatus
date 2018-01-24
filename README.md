@@ -1,2 +1,2 @@
 # exclude-tests-on-bugstatus
-Exclude TestNG tests when bug raised for it is in open status in Bug Management System
+Reference Implementation: To Exclude test when there is bug ID mapping to a test and mapped bug Id is in Open status
